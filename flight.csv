@@ -1,0 +1,11 @@
+S_No.,F_No.,F_Name,Source,Destination,Non stop \ upto 1 stop\ upto 2 stop,Fare,Frequency,Date of Departure
+1,9985,IndiGo,Delhi,Goa,1 stop,4000,3,12-08-2021
+2,459,Air Asia,Delhi,Mumbai,2 stop,10500,2,12-08-2021
+3,4421,Air India,Delhi,Hyderabad,Non stop,3000,4,13-08-2021
+4,5569,Vistara,Delhi,Patna,Non stop,5000,3,14-08-2021
+5,2256,Spice Jet,Delhi,Jaipur,1 stop,9000,1,14-08-2021
+6,1564,Tru Jet,Delhi,Goa,Non stop,6500,2,15-08-2021
+7,2567,Alliance Air,Delhi,Diu,1 stop,9000,1,17-08-2021
+8,2598,Spice Jet,Delhi,Shimla,Non stop,4500,2,17-08-2021
+9,1256,Tru Jet,Delhi,Jodhpur,Non stop,3500,3,18-08-2021
+,,,,,,,
